@@ -1,0 +1,8 @@
+﻿"C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Release\ilc\in\CurrencyConverter.exe"
+"C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Release\ilc\in\Newtonsoft.Json.dll"
+/Lib:"C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\x86\ilc\lib\Private"
+/WinMD:"C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{\"IsOptedIn\":false,\"HostName\":\"Dev14\",\"AppInsightsInstrumentationKey\":\"f144292e-e3b2-4011-ac90-20e5c03fbce5\",\"AsimovInstrumentationKey\":\"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\",\"AppId\":1001,\"UserId\":\"53c9121b-b62b-4350-8128-2cd99b072828\",\"Id\":\"42b2e28c-4c1e-4bc8-b456-3ace5687cd60\",\"ProcessStartTime\":637856251752789944}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\LibraryXML"
+/RunOnlyPreDR
