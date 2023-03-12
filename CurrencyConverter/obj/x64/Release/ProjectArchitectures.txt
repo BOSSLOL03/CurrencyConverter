@@ -1,0 +1,1 @@
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\CurrencyConverter.csproj;x64

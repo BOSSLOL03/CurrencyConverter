@@ -1,0 +1,113 @@
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\App.xbf
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\MainPage.xbf
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\CurrencyConverter.xr.xml
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\CurrencyConverter.exe
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\CurrencyConverter.pdb
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\resources.pri
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\AppxManifest.xml
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\Core\CurrencyConverter.exe
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\CurrencyConverter.build.appxrecipe
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\System.Runtime.dll
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\App.g.i.cs
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\App.g.cs
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\MainPage.g.cs
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\App.xaml
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\MainPage.xaml
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\App.xbf
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\MainPage.xbf
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\CurrencyConverter.exe
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\CurrencyConverter.pdb
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\priconfig.xml
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\resources.resfiles
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\pri.resfiles
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\qualifiers.txt
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424563200000000.json
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\ListPage.xbf
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\LoadingPage.xbf
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\ListPage.g.i.cs
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\ListPage.g.cs
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\LoadingPage.g.i.cs
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\LoadingPage.g.cs
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\ListPage.xaml
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\LoadingPage.xaml
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\ListPage.xbf
+C:\Users\Ruslan\source\repos\CurrencyConverter\CurrencyConverter\obj\x86\Debug\LoadingPage.xbf
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\App.xbf
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\ListPage.xbf
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\LoadingPage.xbf
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\MainPage.xbf
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\CurrencyConverter.xr.xml
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\CurrencyConverter.exe
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\CurrencyConverter.pdb
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\resources.pri
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\AppxManifest.xml
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\Core\CurrencyConverter.exe
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\CurrencyConverter.build.appxrecipe
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\System.Runtime.dll
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\App.g.i.cs
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\App.g.cs
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\ListPage.g.i.cs
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\ListPage.g.cs
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\LoadingPage.g.i.cs
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\LoadingPage.g.cs
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\MainPage.g.cs
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\App.xaml
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\ListPage.xaml
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\LoadingPage.xaml
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\MainPage.xaml
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\App.xbf
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\ListPage.xbf
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\LoadingPage.xbf
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\MainPage.xbf
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\CurrencyConverter.exe
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\CurrencyConverter.pdb
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\priconfig.xml
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\resources.resfiles
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\pri.resfiles
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\qualifiers.txt
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424563200000000.json
+C:\Users\rusab\OneDrive\Рабочий стол\CurrencyConverter-main\CurrencyConverter\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934770560000000.json

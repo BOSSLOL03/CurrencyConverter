@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="CurrencyConverter.LoadingPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CurrencyConverter"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#666767">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+
+        <Border BorderThickness="3" Grid.Row="0" Background="#727373" BorderBrush="#666767"/>
+        <RelativePanel MinHeight="40" Grid.Row="0">
+            <TextBlock Text="Конвертер валют"
+                       FontSize="24"
+                       RelativePanel.AlignHorizontalCenterWithPanel="True"
+                       RelativePanel.AlignVerticalCenterWithPanel="True"/>
+
+        </RelativePanel>
+
+        <RelativePanel MinHeight="100" Grid.Row="1">
+            <TextBlock x:Name="Info"
+                       Text="Загрузка"
+                       FontSize="40"
+                       TextWrapping="Wrap"
+                       Margin="0,20,0,0"
+                       RelativePanel.AlignHorizontalCenterWithPanel="True"/>
+            
+        </RelativePanel>
+
+    </Grid>
+</Page>
